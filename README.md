@@ -1,4 +1,4 @@
-# startup_namer
+# Statup Namer
 
 A new Flutter project.
 
